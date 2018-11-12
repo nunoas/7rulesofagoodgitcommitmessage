@@ -5,4 +5,3 @@ And now I'll something with a bug
 and a minor update
 Some improvement
 Tests
-Something else
